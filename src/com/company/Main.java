@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello Laura, my name is Dhener.");
         System.out.println("Hello Laura, my name is Diana");
         System.out.println("Hello Laura, my name is Nicholas.");
+	System.out.println("Hello Laura, my name is Fredy.");
     }
 
 
